@@ -7,16 +7,17 @@
 </a>
 
 
-Técnico de Ciberseguridad Junior y Analista SOC Junior con sólida base en administración de sistemas Linux/Windows, redes y automatización. Especializado en monitorización de seguridad, análisis de logs, detección de incidentes y hardening de sistemas, orientado a entornos SOC y Blue Team.
+Profesional Junior en Ciberseguridad con experiencia en administración de sistemas Linux/Windows, redes y automatización. Especializado en monitorización de seguridad, análisis de incidentes y hardening de sistemas, con habilidades aplicables tanto en entornos defensivos (Blue Team) como ofensivos (Red Team) y auditorías de seguridad.
 
 ## Objectivo
 
-Mi objetivo es desarrollarme profesionalmente en un Security Operations Center (SOC) como Analista Tier 1, contribuyendo a la detección y análisis de incidentes de seguridad, fortaleciendo la postura defensiva de la organización y creciendo dentro del ámbito de la ciberseguridad defensiva.
+Mi objetivo es crecer como profesional en ciberseguridad, participando en la protección de sistemas, detección y análisis de amenazas, y fortaleciendo la seguridad de la información, mientras amplío mi experiencia en todas las áreas de esta disciplina.
 
 ## Skills
 
 | Skill                                         | Projecto Asociado         |
 |-----------------------------------------------|----------------------------|
+| Documentación propia sobre Ciberseguridad | <a href="https://github.com/pederysky/practicas-ciberseguridad/">Enlace al repositorio</a> |
 | Análisis de tráfico y geolocalización de paquetes | <a href="https://github.com/pederysky/Geolocalizacion-Wireshark">Geolocalización con Wireshark</a> |
 | Monitorización de infraestructuras y servicios | <a href="https://github.com/pederysky/zabbix-grafana-portainer.git">Stack de Monitorización (Zabbix + Grafana + Portainer)</a> |
 | Automatización y scripting (Bash, PowerShell, Python) | <a href="https://github.com/pederysky/Scripts.git">Repositorio de Scripts</a> |
